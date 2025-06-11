@@ -5,7 +5,7 @@ import Services from "./components/Services";
 import Cat from "./components/Cat";
 import CaseStudies from "./components/CaseStudies";
 import WorkingProcess from "./components/WorkingProcess";
-import Team from "./components/team";
+import Team from "./components/Team";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
