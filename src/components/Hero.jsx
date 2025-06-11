@@ -35,11 +35,7 @@ const Hero = () => {
 
                 {/* right */}
                 <div className='md:w-1/2 order-first md:order-last'>
-                    <motion.img 
-                        initial = "hidden"
-                        whileInView='visible'
-                        viewport={{amount: 0.1}}
-                        variants={variants('right', 0.2)}
+                    <img 
                         src={bannerImg} alt='' className='w-full h-auto rounded-md' 
                     />
                 </div>
