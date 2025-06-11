@@ -4,7 +4,7 @@ import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Cat from "./components/Cat";
 import CaseStudies from "./components/CaseStudies";
-import WorkingProcess from "./components/workingProcess";
+import WorkingProcess from "./components/WorkingProcess";
 import Team from "./components/team";
 import Testimonial from "./components/Testimonial";
 import Contact from "./components/Contact";
